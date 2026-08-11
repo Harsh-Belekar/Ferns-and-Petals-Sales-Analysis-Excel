@@ -41,6 +41,30 @@ Transform raw sales data into meaningful insights to help the company:
 
 ---
 
+## 📁 Project Structure
+
+```
+│
+├── 📘 README.md 
+│
+├── 📁 data/
+│       ├── customers.csv
+│       ├── products.csv
+│       └── orders.csv
+│
+├── 📄 Docs/ 
+│       ├──  Problem Statement.pdf
+│       └──  Ferns & Petals Sales Analysis Report.pdf
+│
+├── 📊 Excel-Analysis/
+│       └──  Ferns_and_Petals_Sales_Analysis.xlsx
+│
+└── 🖼️ Images/
+        └──  dashboard_image.png
+```
+
+---
+
 ## 📘 Project Overview
 
 The **Ferns & Petals Sales Analysis** project analyzes sales performance across **products, categories, cities, occasions, customers, and time periods**.
@@ -128,7 +152,7 @@ A professional **PDF report** summarizing:
 
 ## 📊 Dashboard Overview
 
-![Dashboard](dashboard_image.png)
+![Dashboard](Images/dashboard_image.png)
 
 ---
 
@@ -203,30 +227,6 @@ A professional **PDF report** summarizing:
 | `customers.csv` | Customer details | Customer_ID, Name, City, Gender |
 | `products.csv` | Product catalog | Product_ID, Category, Price |
 | `orders.csv` | Order transactions | Order_ID, Customer_ID, Product_ID, Quantity, Order_Date, Delivery_Date |
-
----
-
-## 📁 Project Structure
-
-```
-│
-├── 📘 README.md 
-│
-├── 📁 data/
-│       ├── customers.csv
-│       ├── products.csv
-│       └── orders.csv
-│
-├── 📄 Docs/ 
-│       ├──  Problem Statement.pdf
-│       └──  Ferns & Petals Sales Analysis Report.pdf
-│
-├── 📊 Excel-Analysis/
-│       └──  Ferns_and_Petals_Sales_Analysis.xlsx
-│
-└── 🖼️ images/
-        └──  dashboard_image.png
-```
 
 ---
 
