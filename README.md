@@ -2,12 +2,7 @@
 
 A complete **end-to-end sales analysis project** following a real **industry-level data analytics workflow** — from **data extraction and cleaning** to **data modeling, analysis, reporting, and dashboard creation** using **Microsoft Excel**.
 
-![Tool](https://img.shields.io/badge/Tool-Microsoft_Excel-green)
-![Feature](https://img.shields.io/badge/Feature-Power_Query-lightgreen)
-![Process](https://img.shields.io/badge/Process-ETL_|_Data_Modeling-yellow)
-![Type](https://img.shields.io/badge/Type-Interactive_Dashboard-orange)
-![Domain](https://img.shields.io/badge/Domain-Retail_Analytics-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Tool](https://img.shields.io/badge/Tool-Microsoft_Excel-green) ![Feature](https://img.shields.io/badge/Feature-Power_Query-lightgreen) ![Process](https://img.shields.io/badge/Process-ETL_|_Data_Modeling-yellow) ![Type](https://img.shields.io/badge/Type-Interactive_Dashboard-orange) ![Domain](https://img.shields.io/badge/Domain-Retail_Analytics-orange) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
 
@@ -214,18 +209,23 @@ A professional **PDF report** summarizing:
 ## 📁 Project Structure
 
 ```
-📁 Ferns-and-Petals-Sales-Analysis/
+│
+├── 📘 README.md 
 │
 ├── 📁 data/
-│ ├── customers.csv
-│ ├── products.csv
-│ └── orders.csv
+│       ├── customers.csv
+│       ├── products.csv
+│       └── orders.csv
 │
-├── 📊 Ferns_and_Petals_Sales_Analysis.xlsx
-├── 📄 Ferns & Petals Sales Analysis Report.pdf
-├── 📄 Problem Statement.pdf
-├── 🖼️ dashboard_image.png
-└── 📘 README.md
+├── 📄 Docs/ 
+│       ├──  Problem Statement.pdf
+│       └──  Ferns & Petals Sales Analysis Report.pdf
+│
+├── 📊 Excel-Analysis/
+│       └──  Ferns_and_Petals_Sales_Analysis.xlsx
+│
+└── 🖼️ images/
+        └──  dashboard_image.png
 ```
 
 ---
@@ -283,11 +283,6 @@ This analysis helps Ferns & Petals:
 📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
 
 📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
-
----
-
-## 🏷️ Repository Topics
-`excel` · `power-query` · `power-pivot` · `data-analysis` · `dashboard` · `etl` · `business-intelligence` · `retail-analytics` · `sales-insights`
 
 ---
 
